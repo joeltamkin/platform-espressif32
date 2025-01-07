@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "platform-espressif32",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"functional": "cpp",
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"span": "cpp"
+		}
+	}
+}
